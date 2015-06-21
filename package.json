@@ -1,0 +1,13 @@
+{
+  "name": "file_library",
+  "version": "0.0.1",
+  "description": "Table view of files present in genre type folders",
+  "main": "./lib/index.js",
+  "author": "Vincent Barreau",
+  "scripts" : { 
+  	"start" : "node ./lib/index.js" 
+  	},
+  "dependencies": {
+    "dive": "^0.4.0"
+  }
+}

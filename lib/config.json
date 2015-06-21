@@ -1,4 +1,8 @@
 {
 	"extensions": ["jpg", "txt"],
-	"filesDir" : "test/fixture"
+	"filesDir" : "test/fixture",
+	"sepcificFolder" : [
+		{"name" : "language", "data": ["EN", "FR"]},
+		{"name" : "good", "data": ["good"]}
+	]
 }
